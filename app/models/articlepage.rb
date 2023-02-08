@@ -1,0 +1,2 @@
+class Articlepage < ApplicationRecord
+end
